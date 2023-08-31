@@ -11,6 +11,7 @@ function App() {
       <div>
         <h1 style={{color:"orange"}} >This is auto deployment</h1>
         <h2>I love coding!</h2>
+        <h1>Hello World!</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
